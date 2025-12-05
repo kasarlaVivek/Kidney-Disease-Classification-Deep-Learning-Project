@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Public/public%20desktop/ML%20and%20DL/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/b7da2a49b0934dce86c2f5ecc9b21473/artifacts
+end_time: 1764936259179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7da2a49b0934dce86c2f5ecc9b21473
+run_name: skittish-flea-86
+run_uuid: b7da2a49b0934dce86c2f5ecc9b21473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764936252810
+status: 3
+tags: []
+user_id: kasar
