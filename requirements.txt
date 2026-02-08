@@ -1,19 +1,12 @@
 tensorflow-cpu==2.20.0
-pandas 
-dvc
-mlflow==2.2.2
-notebook
+pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
-python-box==6.0.2
-pyYAML
-tqdm
-ensure==1.0.2
+streamlit>=1.30
 joblib
-types-PyYAML
+python-box
+pyyaml
 scipy
-Flask
-Flask-Cors
-gdown
--e .
+tqdm
