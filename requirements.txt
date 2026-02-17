@@ -10,3 +10,5 @@ python-box
 pyyaml
 scipy
 tqdm
+flask
+flask-cors
