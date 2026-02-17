@@ -12,3 +12,5 @@ scipy
 tqdm
 flask
 flask-cors
+ensure
+gdown
